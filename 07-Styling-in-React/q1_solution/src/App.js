@@ -58,3 +58,12 @@ export default function App() {
     </form>
   );
 }
+
+
+
+
+// This problem has only one correct answer
+// The map method can be used to iterate over an array and return JSX
+// The filter method can be used to filter an array based on a condition and return JSX
+// The map method takes a callback function as an argument and returns a new array
+The map method receives the array as the first argument to the callback function
